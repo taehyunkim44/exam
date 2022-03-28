@@ -1,3 +1,7 @@
 public class Hello{
 안녕하세요
+Hello World
+print
+java
 }
+
